@@ -35,7 +35,7 @@ public class LbsMainApp {
 	public void start() {
 		
 		try {
-			System.out.println("DEV 버전 테스트");
+			System.out.println("MASTER 버전 테스트");
 
 			//-----------------------------------------
 			//--001. 환경설정
